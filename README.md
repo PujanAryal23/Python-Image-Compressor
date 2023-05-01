@@ -13,7 +13,7 @@ This Python script compresses an image file to a target file size by adjusting t
 2. Open a terminal or command prompt and navigate to the directory containing the script.
 3. Run the script using the following command:
 
-<python compress_image.py my_image.jpg my_compressed_image.jpg 500000>
+```python compress_image.py my_image.jpg my_compressed_image.jpg 500000>```
 
 Replace `[input_path]` with the path to the input image file, `[output_path]` with the desired path for the compressed output file, and `[target_size]` with the target file size in bytes.
 
